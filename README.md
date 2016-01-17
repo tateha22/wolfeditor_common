@@ -5,8 +5,8 @@
 
 ###予定
 下記の3種類に分けられるので、これらをかき集めて一元管理　2017年予定
-1. 公式(http://silsec.sakura.ne.jp/WolfRPGEditor/CommonList/html/)に上げたもの
-1. ここ (http://ux.getuploader.com/ttherix_common/) にあるもの
-2. 未完・未公開だが公開していいもの
+-  公式(http://silsec.sakura.ne.jp/WolfRPGEditor/CommonList/html/)に上げたもの
+-  ここ (http://ux.getuploader.com/ttherix_common/) にあるもの
+-  未完・未公開だが公開していいもの
 
 たては 2016.01.17.
