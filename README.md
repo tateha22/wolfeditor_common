@@ -4,7 +4,9 @@
 - GitとGitHubの使い方を覚える
 
 ###予定
-1. 公式に上げたけどアップローダにないものを移動させる
-1. 今まで作ったものはおおかたここ (http://ux.getuploader.com/ttherix_common/) にあるので、それを移動させる
+下記の3種類に分けられるので、これらをかき集めて一元管理　2017年予定
+1. 公式(http://silsec.sakura.ne.jp/WolfRPGEditor/CommonList/html/)に上げたもの
+1. ここ (http://ux.getuploader.com/ttherix_common/) にあるもの
+2. 未完・未公開だが公開していいもの
 
 たては 2016.01.17.
